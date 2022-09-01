@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://kurniawan2805.github.io/csb-ujitww/static/css/main.383fdbca.chunk.css",
+    "main.js": "https://kurniawan2805.github.io/csb-ujitww/static/js/main.9dd5f570.chunk.js",
+    "main.js.map": "https://kurniawan2805.github.io/csb-ujitww/static/js/main.9dd5f570.chunk.js.map",
+    "runtime-main.js": "https://kurniawan2805.github.io/csb-ujitww/static/js/runtime-main.2f18e502.js",
+    "runtime-main.js.map": "https://kurniawan2805.github.io/csb-ujitww/static/js/runtime-main.2f18e502.js.map",
+    "static/js/2.eb53967c.chunk.js": "https://kurniawan2805.github.io/csb-ujitww/static/js/2.eb53967c.chunk.js",
+    "static/js/2.eb53967c.chunk.js.map": "https://kurniawan2805.github.io/csb-ujitww/static/js/2.eb53967c.chunk.js.map",
+    "index.html": "https://kurniawan2805.github.io/csb-ujitww/index.html",
+    "static/css/main.383fdbca.chunk.css.map": "https://kurniawan2805.github.io/csb-ujitww/static/css/main.383fdbca.chunk.css.map",
+    "static/js/2.eb53967c.chunk.js.LICENSE.txt": "https://kurniawan2805.github.io/csb-ujitww/static/js/2.eb53967c.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.2f18e502.js",
+    "static/js/2.eb53967c.chunk.js",
+    "static/css/main.383fdbca.chunk.css",
+    "static/js/main.9dd5f570.chunk.js"
+  ]
+}
